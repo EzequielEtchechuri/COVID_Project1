@@ -28,9 +28,17 @@ This project analyzes international data (for company privacy reasons) on lost w
 - In most regions, males were the most affected, reporting higher rates of work absence. However, these data are mostly due to the gender gap in employment.
 
 ## Data and Steps:
+- `Covid_Employment_DB.pbix`: Dashboard in Power BI
+- `COVID_Employment.xlsx`: Clean dataset
+- `employment_data.csv`: Original data
 Source: https://www.kaggle.com/datasets/vineethakkinapalli/impact-of-covid19-on-employment-ilostat
 
+**Steps**
 - The original data (csv) was cleaned and modeled in Excel.
 - New columns were added to distinguish between countries, regions, and economic groups in Excel.
 - The data was loaded into Power BI, and extra columns and measures were added using DAX formatting.
 - Visuals for storytelling were built in Power BI.
+
+Contact me:
+<a href="https://www.linkedin.com/in/ezequiel-etchechuri-guillama"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="mailto:etchechuriwork@gmail.com"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" width="40"></a>
+|--|--|
